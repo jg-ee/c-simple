@@ -2,5 +2,5 @@
 
 
 int main(){
-    printf("Output Usage");
+    printf("Output Usage:");
 }
